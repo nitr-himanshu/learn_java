@@ -1,5 +1,8 @@
 
-/* In this inheritance there exist one base class and one derived class.
+/* 
+- Inheritance allows a class (subclass or derived class) to inherit properties and behaviors from another class (superclass or base class). 
+- It promotes code reusability, extensibility, and the creation of hierarchical relationships between classes.
+In this inheritance there exist one base class and one derived class.
 									Base Class
 										|
 										|
