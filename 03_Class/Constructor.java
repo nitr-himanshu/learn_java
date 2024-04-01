@@ -1,7 +1,8 @@
 /* 
-* There is no concept of destructor in Java
-handles memory management differently through automatic garbage collection.
-Java provides a finalize() method, but it's not equivalent to a destructor;
+- No destructor in java
+- Garbage collector responsible for memory management.
+- finalize() method is not equivalent to destructor.
+- Use of finalize() is not recommended, as it's execution is non-deterministic.
  */
 import java.util.Scanner;
 
