@@ -6,7 +6,16 @@ In this inheritance there exist one base class and one derived class.
 									Base Class
 										|
 										|
-								  Derived class 
+								  Derived class
+- Java doesn't support Multiple inheritance
+
+BaseClass1         BaseClass2
+	|					|
+	|					|
+	_____________________
+			  |
+			  |
+			Derived Class (Not supported)
 */
 import java.util.Scanner;
 
